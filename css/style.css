@@ -37,3 +37,39 @@ h1{
 p{
     font-size: 40px;
 }
+
+.main1{
+    margin: 0 auto;
+    /* top: 1000px; */
+    height: 900px;
+    
+    background: thistle;
+    position: relative;
+
+
+}
+.media{
+    height: 500px;
+    width: 50%;
+    background: blueviolet;
+    position: absolute;
+    
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+iframe{
+    height: 500px;
+    width: 100%;
+    
+}
+.vedio{
+    right: 0;
+
+    height: 500px;
+    width: 50%;
+    background: blue;
+    position: absolute;
+}
